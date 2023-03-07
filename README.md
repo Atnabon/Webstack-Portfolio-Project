@@ -1,4 +1,6 @@
-# Webstack-Portfolio-Project
+# # Tekeray
+
+`Group project` `Web Portfolio project`
 
 ### Task - Full Stack webstack portfolio project()
 
@@ -27,7 +29,7 @@ AUTHORS
 
 * Atnabon Deressa **[Github](https://github.com/atnabon)** 
 * Barbez Nyambura **[Github](https://github.com/Barbez)** 
-* takele Geleta **[Github](https://github.com/ takele)**
+* takele Geleta **[Github](https://github.com/takelemerga)**
 * Selamawit Gebreyohannes **[Github](https://github.com/Selamawit)**
 
 
