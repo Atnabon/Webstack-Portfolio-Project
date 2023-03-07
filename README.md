@@ -28,9 +28,9 @@ The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersi
 AUTHORS
 
 * Atnabon Deressa **[Github](https://github.com/atnabon)** 
-* Barbez Nyambura **[Github](https://github.com/Barbez)** 
+* Barbez Nyambura **[Github](https://github.com/BarbezNyambura)** 
 * takele Geleta **[Github](https://github.com/takelemerga)**
-* Selamawit Gebreyohannes **[Github](https://github.com/Selamawit)**
+* Selamawit Gebreyohannes **[Github](https://github.com/SelamawitGebreyohannes)**
 
 
 > Show love by leaving a ⭐️ if you like this project and don't forget to fork, break and modify 
