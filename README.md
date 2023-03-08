@@ -1,8 +1,13 @@
-# # Tekeray
+# # Sociopedia
 
-`Group project` `Web Portfolio project`
+# FullStack Social Media App
+Complete React MERN Full Stack Social Media App
 
-### Task - Full Stack webstack portfolio project()
+
+For users who are looking to contribute, I'm planning to possibly create a separate branch for community contributions and additional features as well as for improvements and fixes.
+
+I haven't decided on the exact workflow I'll be using yet. But we'll get it out there soon!
+
 
 ### alx_africa
 The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.
@@ -23,7 +28,7 @@ The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersi
 
 ## Tech Used
 
-`React` `Tailwind CSS` `Express JS` `Mongo DB`
+`React` `Material UI` `Express JS` `Mongo DB`
 
 AUTHORS
 
